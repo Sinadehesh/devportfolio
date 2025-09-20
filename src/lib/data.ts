@@ -163,7 +163,6 @@ export const projects = [
     description: [
       "Produced more than 40 videos in Persian about psychology and neuroscience.",
       "Aimed at making psychological science accessible to the public.",
-  URL:
     ],
   },
 ];
