@@ -70,7 +70,7 @@ export const education = [
     institution: "University of Milano-Bicocca",
     location: "Milan, Italy",
     degree: "MSc in Applied Experimental Psychological Sciences (AEPS)",
-    period: "Sep 2022 – Dec 2025",
+    period: "Sep 2022 - Dec 2025",
   },
   {
     institution: "Shiraz University",
