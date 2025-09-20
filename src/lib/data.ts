@@ -77,8 +77,7 @@ export const education = [
     location: "Shiraz, Iran",
     degree: "BSc in Psychology",
     period: "Aug 2015 – Sep 2020",
-    thesis:
-      "The Effect of Attributional Style on Meth Addicts’ Rehabilitation Outcomes",
+    thesis: "The Effect of Attributional Style on Meth Addicts’ Rehabilitation Outcomes",
   },
 ];
 
